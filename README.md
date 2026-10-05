@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Mapping-Navigation"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mapping-Navigation?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mapping-Navigation"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mapping-Navigation?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mapping-Navigation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mapping-Navigation?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mapping-Navigation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mapping-Navigation?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -53,9 +53,9 @@ Whether you're an enterprise developer comparing **Google Maps Platform** API pr
 
 ## 🔓 Open-Source Mapping & Navigation Projects
 
-Below is a sorted list of leading open-source repositories for interactive web maps, routing engines, geocoding tools, and desktop GIS suites, ordered by GitHub star count (descending).
+Below is a sorted list of leading open-source repositories for interactive web maps, routing engines, geocoding tools, and desktop GIS suites, ordered by GitHub Stars_Count (descending).
 
-| Project / Repo | Description | Stars |
+| Project / Repo | Description | GitHub_Stars |
 |----------------|-------------|-------|
 | **[Leaflet](https://github.com/Leaflet/Leaflet)** 🍃 | **The leading open-source JavaScript library for mobile-friendly interactive maps.** Lightweight, highly extensible with thousands of plugins. **BSD-2-Clause**. | [<img src="https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white" alt="Leaflet Stars"/>](https://github.com/Leaflet/Leaflet/stargazers) |
 | **[CesiumJS](https://github.com/CesiumGS/cesium)** 🌐 | **An open-source JavaScript library for world-class 3D globes and maps.** High-performance 3D geospatial visualization for web applications. **Apache-2.0**. | [<img src="https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white" alt="CesiumJS Stars"/>](https://github.com/CesiumGS/cesium/stargazers) |
@@ -79,7 +79,7 @@ Contributions to **Awesome Mapping & Navigation** are warmly welcomed! Help us k
 
 1. **Fork** the repository.
 2. Add your suggested SaaS product or open-source tool to `README.md` following the table formatting.
-3. Ensure open-source entries include valid GitHub links, descriptions, license, and star badges.
+3. Ensure open-source entries include valid GitHub links, descriptions, license, and Stars_Badges.
 4. Open a **Pull Request** with a brief summary of why the addition is valuable.
 
 Check out our full awesome ecosystem collection on [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
